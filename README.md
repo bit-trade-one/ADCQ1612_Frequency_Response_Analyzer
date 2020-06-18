@@ -10,6 +10,12 @@
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/adcq1612p/)!
 
+## [PCアプリ](https://github.com/bit-trade-one/ADCQ1612_Frequency_Response_Analyzer/tree/master/App)
+
+### [基板図](https://github.com/bit-trade-one/ADCQ1612_Frequency_Response_Analyzer/blob/master/Dimensions/lc135-n.pdf)
+
+### [回路図](https://github.com/bit-trade-one/ADCQ1612_Frequency_Response_Analyzer/blob/master/Schematics/FreqAnalyzer_schematics.pdf)
+
 ## 製品仕様
 
 【無線通信機能】Bluetooth V2.1+EDR対応  
