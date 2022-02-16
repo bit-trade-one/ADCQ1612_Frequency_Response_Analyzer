@@ -14,9 +14,9 @@
 ## [PCアプリ](https://github.com/bit-trade-one/ADCQ1612_Frequency_Response_Analyzer/tree/master/App)
 #### [ダウンロード直リンク](https://github.com/bit-trade-one/ADCQ1612_Frequency_Response_Analyzer/raw/master/App/Analizer.exe)
 
-### [基板図](https://github.com/bit-trade-one/ADCQ1612_Frequency_Response_Analyzer/blob/master/Dimensions/lc135-n.pdf)
+## [基板図](https://github.com/bit-trade-one/ADCQ1612_Frequency_Response_Analyzer/blob/master/Dimensions/lc135-n.pdf)
 
-### [回路図](https://github.com/bit-trade-one/ADCQ1612_Frequency_Response_Analyzer/blob/master/Schematics/FreqAnalyzer_schematics.pdf)
+## [回路図](https://github.com/bit-trade-one/ADCQ1612_Frequency_Response_Analyzer/blob/master/Schematics/FreqAnalyzer_schematics.pdf)
 
 ## 製品仕様
 
