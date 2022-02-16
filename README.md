@@ -12,6 +12,7 @@
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/adcq1612p/)!
 
 ## [PCアプリ](https://github.com/bit-trade-one/ADCQ1612_Frequency_Response_Analyzer/tree/master/App)
+#### [ダウンロード直リンク](https://github.com/bit-trade-one/ADCQ1612_Frequency_Response_Analyzer/raw/master/App/Analizer.exe)
 
 ### [基板図](https://github.com/bit-trade-one/ADCQ1612_Frequency_Response_Analyzer/blob/master/Dimensions/lc135-n.pdf)
 
