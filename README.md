@@ -12,7 +12,7 @@
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/adcq1612p/)!
 
 ## [PCアプリ](https://github.com/bit-trade-one/ADCQ1612_Frequency_Response_Analyzer/tree/master/App)
-#### [ダウンロード直リンク](https://github.com/bit-trade-one/ADCQ1612_Frequency_Response_Analyzer/raw/master/App/Analizer.exe)
+#### [ダウンロード直リンク](https://github.com/bit-trade-one/ADCQ1612_Frequency_Response_Analyzer/raw/master/App/FreqAnalizer.exe)
 
 ## [よくある質問](FAQ.md)
 
@@ -34,3 +34,4 @@
 【組立済み付属品】保証書1部（ACアダプタは付属しません）  
 【使用温度】0 ～ 40℃（結露なきこと）  
 【生産国】Made in Japan  
+
